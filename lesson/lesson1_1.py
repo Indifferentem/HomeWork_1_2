@@ -1,1 +1,1 @@
-Print("Work!")
+print("Work!")
